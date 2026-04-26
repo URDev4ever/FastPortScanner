@@ -1,7 +1,7 @@
 <h1 align="center">FastPortScanner</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 <h3 align="center">Un escáner de puertos TCP de alto rendimiento escrito en Java usando I/O no bloqueante (java.nio).</h3>
 
